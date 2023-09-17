@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-| <a href="https://github.com/cyz1901/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cyz1901&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/cyz1901/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyz1901&layout=pie&theme=buefy&hide_border=true&langs_count=20&include_all_commits=true&hide=c,cMake,javascript,html,css,clarion,ruby,antlr" /></a> |
+| <a href="https://github.com/cyz1901/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cyz1901&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="cyz1901's github stats" /></a> | <a href="https://github.com/cyz1901/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyz1901&layout=pie&theme=buefy&hide_border=true&langs_count=20&include_all_commits=true&hide=c,cMake,javascript,html,css,clarion,ruby,antlr" /></a> |
 | ------------- | ------------- |
 
 <!--
