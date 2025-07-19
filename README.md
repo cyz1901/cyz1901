@@ -28,6 +28,7 @@
 
 
 #### 🖼 Frontend  
+![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
 ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb)
 ![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat&logo=react&logoColor=61dafb)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
