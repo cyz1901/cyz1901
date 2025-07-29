@@ -39,6 +39,7 @@
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-2C1E6A?style=flat&logo=capacitor&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)
 
 
 #### 🔧 Backend  
